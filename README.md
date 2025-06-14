@@ -1,4 +1,4 @@
-#  Construindo uma Landing Page no Mundo Invertido com HTML e CSS  
+# 💡 Construindo uma Landing Page no Mundo Invertido com HTML e CSS  
 
 Este projeto é uma landing page inspirada no universo do **Mundo Invertido**, construída com **HTML5 e CSS3**. Ao longo da criação, explorei conceitos fundamentais de estrutura semântica, estilização moderna com variáveis CSS e implementação de temas **claro e escuro** para uma experiência visual envolvente e acessível.
 
