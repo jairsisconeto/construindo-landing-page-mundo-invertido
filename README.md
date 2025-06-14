@@ -33,4 +33,4 @@ Durante a construção do projeto, estudei e apliquei as seguintes técnicas:
 ## 📌 Como executar o projeto  
  Clone este repositório e abra o arquivo index.html em um navegador compatível.  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone hhttps://github.com/jairsisconeto/construindo-landing-page-mundo-invertido
